@@ -1,0 +1,43 @@
+.estilos h1{
+    color: tomato;
+    font-size: large;
+    text-align: center;
+    font-style: italic;  
+}
+
+.estilos h2{
+    color: darkblue;
+    font-size: large;
+}
+
+.bg-react{
+    background-color:aquamarine ;
+}
+
+.estilos h4{
+    color: white;
+    text-align: right;
+    font-family:Arial, Helvetica, sans-serif ;
+  
+}
+
+body {
+    height:965px;
+    background-color:white;
+    background-repeat: repeat-y;
+    background-size: 10rem;
+    color :blueviolet;
+    text-transform:uppercase;
+    text-align: center;
+  }
+
+.div {
+    color: darkgreen;
+    background-color: aquamarine;
+    font-size: large;
+  }
+
+  .mayusculas{
+    text-transform:uppercase;
+    text-align: center;
+  }
